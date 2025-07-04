@@ -1,0 +1,4 @@
+SESSION: Array
+(
+    [user_id] => 14
+)
